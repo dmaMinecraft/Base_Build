@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/dmaadmin/Desktop/Course Assets 2014/Teens/Minecraft Modding/Troubleshooting/Reference Files/Base_Build/forge-1.7.2-10.12.0.1049-src/eclipse/.metadata/.plugins/org.eclipse.jdt.core
+4034374388.index
+762399427.index
+208370467.index
